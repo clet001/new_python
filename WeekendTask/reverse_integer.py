@@ -1,10 +1,5 @@
 number = int(input("Enter an Integer: "))
 
+int reversed = number[::-1]
 
-number = str(number)
-
-# Reverse using slicing
-reversed = number[::-1]
-
-
-print("Reversed:", int(reversed))
+print("Reversed:", reversed)
