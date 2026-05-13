@@ -7,4 +7,4 @@ for letter in alphabet:
         count = count + 1                 
 
 
-print("Uppercase letters:", count)
+print("Uppercase", count)
